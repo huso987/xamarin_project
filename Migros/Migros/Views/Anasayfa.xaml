@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Migros.Views.Anasayfa">
+
+ 
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+    <ScrollView>
+        <StackLayout Orientation="Vertical">
+
+            <StackLayout BackgroundColor="White">
+                <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15" Text="MIGROS HEMEN" FontSize="Large" TextColor="Orange"></Label>
+                <Frame CornerRadius="10" IsClippedToBounds="True" Padding="0" Margin="5">
+                    <SearchBar Placeholder="Neye ihtiyacın var ?" BackgroundColor="#BBB7B7"  />
+                </Frame>
+
+
+                <StackLayout HeightRequest="100" Padding="5">
+                    <Frame CornerRadius="10" IsClippedToBounds="True" Padding="-15">
+                        <CarouselView x:Name="Slider"   >
+
+                            <CarouselView.ItemTemplate>
+
+                                <DataTemplate>
+                                    <Image
+                                Source="{Binding}"
+                                />
+                                </DataTemplate>
+                            </CarouselView.ItemTemplate>
+                        </CarouselView>
+                    </Frame>
+
+                </StackLayout>
+            </StackLayout>
+
+
+            <StackLayout>
+
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+
+
+                    <StackLayout >
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                    />
+                        <Label Text="Meyve - Sebze" Padding="5"></Label>
+
+                    </StackLayout>
+                    <StackLayout >
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                    />
+                        <Label Text="Et - Balık - Kümes"  Padding="5"></Label>
+
+                    </StackLayout>
+                    <StackLayout >
+
+
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                               
+                    />
+                        <Label Text="Süt - kahvaltılık" Padding="5"></Label>
+
+                    </StackLayout>
+
+
+
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                    <StackLayout >
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                    />
+                        <Label Text="Meyve - Sebze" Padding="5"></Label>
+
+                    </StackLayout>
+                    <StackLayout >
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                    />
+                        <Label Text="Et - Balık - Kümes"  Padding="5"></Label>
+
+                    </StackLayout>
+                    <StackLayout >
+
+
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                               
+                    />
+                        <Label Text="Süt - kahvaltılık" Padding="5"></Label>
+
+                    </StackLayout>
+
+
+
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                    <StackLayout >
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                    />
+                        <Label Text="Meyve - Sebze" Padding="5"></Label>
+
+                    </StackLayout>
+                    <StackLayout >
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                    />
+                        <Label Text="Et - Balık - Kümes"  Padding="5"></Label>
+
+                    </StackLayout>
+                    <StackLayout >
+
+
+
+                        <Image HeightRequest="100" WidthRequest="100"
+                    
+                    Source="https://pbs.twimg.com/media/Cr03M7vWAAEFff1.jpg"
+                               
+                    />
+                        <Label Text="Süt - kahvaltılık" Padding="5"></Label>
+
+                    </StackLayout>
+
+
+
+                </StackLayout>
+
+
+            </StackLayout>
+        </StackLayout>
+
+    </ScrollView>
+</ContentPage>

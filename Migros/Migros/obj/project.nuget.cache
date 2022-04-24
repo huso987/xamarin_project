@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2z6DEhSS0XKr2szWt92OrHjsSPogL3Rt2a4SiEc2JjPCUQQAtBNVI6BT1r++jBF+nH+cblN12HFITgCvvvpmkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\Migros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hacer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hacer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Hacer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hacer\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Hacer\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
