@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.iOS\\Migros.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
       "projectName": "Migros.iOS",
-      "projectPath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.iOS\\Migros.iOS.csproj",
+      "projectPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
       "packagesPath": "C:\\Users\\Hacer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1008,8 +1008,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\Migros.csproj": {
-              "projectPath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\Migros.csproj"
+            "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj": {
+              "projectPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj"
             }
           }
         }

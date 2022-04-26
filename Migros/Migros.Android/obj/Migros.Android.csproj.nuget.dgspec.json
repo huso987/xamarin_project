@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.Android\\Migros.Android.csproj": {}
+    "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.Android\\Migros.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.Android\\Migros.Android.csproj": {
+    "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.Android\\Migros.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.Android\\Migros.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.Android\\Migros.Android.csproj",
         "projectName": "Migros.Android",
-        "projectPath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.Android\\Migros.Android.csproj",
+        "projectPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.Android\\Migros.Android.csproj",
         "packagesPath": "C:\\Users\\Hacer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.Android\\obj\\",
+        "outputPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\Migros.csproj": {
-                "projectPath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\Migros.csproj"
+              "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj": {
+                "projectPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj"
               }
             }
           }
@@ -50,14 +50,14 @@
         }
       }
     },
-    "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\Migros.csproj": {
+    "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\Migros.csproj",
+        "projectUniqueName": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj",
         "projectName": "Migros",
-        "projectPath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\Migros.csproj",
+        "projectPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj",
         "packagesPath": "C:\\Users\\Hacer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros\\obj\\",
+        "outputPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hacer\\AppData\\Roaming\\NuGet\\NuGet.Config",

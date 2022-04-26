@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Migros.Views.arama"
+             Title="Arama"
+             >
+              
+
+    <ContentPage.Resources>
+
+        <ResourceDictionary>
+            <Color x:Key="Accent">#ffc200</Color>
+
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView>
+
+
+        <StackLayout Orientation="Vertical">
+          
+
+            <StackLayout Orientation="Horizontal">
+
+
+                <StackLayout  x:Name="tavuklu" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/19009224/19009224-0bc7d9.jpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Migros Ev Lezzetleri Tavuklu Pirinç Pilavı 210G"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="21,75 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large" ></Button>
+                        <Label x:Name="label1"  Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+
+                </StackLayout>
+                <StackLayout x:Name="wrap" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/19009222/19009222-8babcf.jpg" BackgroundColor="White" Aspect="AspectFit" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Migros Ev Lezzetleri Tavuklu Trüflü Wrap 240G"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="30,50 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label2" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large" ></Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <StackLayout x:Name="şehriyeli" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/19009221/19009221-3cb24a.jpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Migros Ev Lezzetleri Şehriyeli Pirinç Pilavı 180G" FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="12,75 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label3" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout x:Name="peynirli" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/05060617/05060617-8b497e.jpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Pizza Mi-go Peynirli Pizza 545G Dondurulmuş (Yeni)" FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="25,90 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large" ></Button>
+                        <Label x:Name="label4"  Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <StackLayout x:Name="jambon"  Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://iis-akakce.akamaized.net/p.z?%2F%2Fmigros%2Ddali%2Dstorage%2Dprod%2Eglobal%2Essl%2Efastly%2Enet%2Fsanalmarket%2Fproduct%2F5060618%2F5060618%2D9d28cb%2D1650x1650%2Ejpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Pizza Mi-go Jambon - Chedarlı 520G Dondurulmuş(Yeni)" FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="25,90 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label5" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout x:Name="karışık" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://iis-akakce.akamaized.net/p.z?%2F%2Fmigros%2Ddali%2Dstorage%2Dprod%2Eglobal%2Essl%2Efastly%2Enet%2Fsanalmarket%2Fproduct%2F5060619%2F5060619%2D89c102%2D1650x1650%2Ejpg" BackgroundColor="White" Aspect="AspectFit" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Pizza Mi-go Karışık Pizza 545G Dondurulmuş(Yeni)" FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="25,90 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large" ></Button>
+                        <Label x:Name="label6" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+
+
+                <StackLayout  x:Name="limon" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/27268060/27268060-1760f1.jpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Limon Ekstra 1 Kg Paket Adet"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="10,00 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label13"  Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+
+                </StackLayout>
+                <StackLayout x:Name="avokado" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/28010004/28010004-10a053.jpg" BackgroundColor="White" Aspect="AspectFit" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Avokado Adet"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="9,00 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label14" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+
+
+                <StackLayout  x:Name="hıyar" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/28136887/28136887-d4d1b2.jpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Hıyar Badem 500 G Paket Adet"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="8,95 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label15"  Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+
+                </StackLayout>
+                <StackLayout x:Name="domates" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/28089128/28089128-100417.jpg" BackgroundColor="White" Aspect="AspectFit" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Domates Kokteyl 500 G Paket Adet"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="19,95 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label16" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+
+
+                <StackLayout  x:Name="maydanoz" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/28260009/maydanoz-adet-659b84.jpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Maydanoz Demet"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="4,95 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label17"  Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+
+                </StackLayout>
+                <StackLayout x:Name="salata" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/28370016/28370016-c4a312.jpg" BackgroundColor="White" Aspect="AspectFit" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Salata Atom Adet"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="14,90 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"   ></Button>
+                        <Label x:Name="label18" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large" ></Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+
+
+                <StackLayout  x:Name="bonibon" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/07030231/milka-bonibon-3-lu-paket-81-gr-0ba725.jpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Milka Bonibon 3' lü Paket 72,9G"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="10,50 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label7"  Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+
+                </StackLayout>
+                <StackLayout x:Name="çikolata" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/07037273/07037273-57e752.jpg" BackgroundColor="White" Aspect="AspectFit" HeightRequest="55" WidthRequest="140" VerticalOptions="Center" />
+                    <Label Text="Nestle Classic Bitter Kare Çikolata 60G"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="8,00 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label8" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+
+
+                <StackLayout  x:Name="züberbar" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/07199976/07199976-2a66b4.png" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Züber Şeker İlavesiz Fıstık Ezmeli Hi-Protein Bar 45G"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="14,00 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label9"  Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+
+                </StackLayout>
+                <StackLayout x:Name="züberlokma" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/07209890/07209890-e594df.jpg" BackgroundColor="White" Aspect="AspectFit" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Züber Lokma Antep Fıstığı Kaplı Meyve Topu 96G"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="19,00 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label10" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+
+
+                <StackLayout  x:Name="canga" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/07167116/07167116-3797bf.jpg" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Eti Canga Yerfıstığı Kaplı Fındık Kremalı Gofret 34G"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="3,50 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label11"  Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"   ></Button>
+                    </StackLayout>
+
+
+                </StackLayout>
+                <StackLayout x:Name="hoşbeş" Orientation="Vertical" Margin="15" IsVisible="true">
+                    <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" VerticalOptions="Start" HeightRequest="15"></ImageButton>
+                    <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/07160087/07160087-f67967.jpg" BackgroundColor="White" Aspect="AspectFit" HeightRequest="80" WidthRequest="150" VerticalOptions="Center" />
+                    <Label Text="Hoşbeş Fındıklı Gofret 142 G"  FontSize="Micro" Padding="1" Margin="1"></Label>
+                    <Label Text="9,00 TL" TextColor="#ffc200" HorizontalOptions="End"></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="-"  WidthRequest="40" HeightRequest="2" BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                        <Label x:Name="label12" Text=" 0 " HorizontalOptions="CenterAndExpand" ></Label>
+                        <Button Text="+"  WidthRequest="40"  BackgroundColor="Black"  TextColor="#ffc200" FontSize="Large"  ></Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </StackLayout>
+
+
+
+
+
+        </StackLayout>
+
+    </ScrollView>
+
+
+
+
+</ContentPage>

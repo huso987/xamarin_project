@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uLJghcJXReLuztM86BzDaOWyFLlNw3Ati1M6biUawXoAbz3YfMCPRSYeQVgNRjhUQzSKyoWaVgOsfr+IrgAsLA==",
+  "dgSpecHash": "khCcFpSBs3MBqSPK4rw4u/t8ltPUceRGVYi81DO5dJud96jwTVYK6tAg4oGKdK8RfXwRAVVziiVn4DK0sBskpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.Android\\Migros.Android.csproj",
+  "projectFilePath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.Android\\Migros.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hacer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Hacer\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

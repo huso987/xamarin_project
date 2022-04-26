@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P1b2Lba/Gu6VlxQHUV4G1beICMv35fLDLr0A/Qw9OJspUZX36nm5mqt/OBCVhFvyTIb0HY6GDEuI2YeE/Cp4Mw==",
+  "dgSpecHash": "MdmtZETzOTAvcW1uNwPNrB5Q8/BhKnjcVWxy0DpLYVTXWgST9n6uEDwbpWCM2NP95VI/eryDmn/HLGEvlMXXDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hacer\\Downloads\\Migros\\Migros\\Migros.iOS\\Migros.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hacer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Hacer\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

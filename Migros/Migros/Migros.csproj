@@ -14,9 +14,28 @@
     <EmbeddedResource Update="Views\Anasayfa.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Views\arama.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="img\" />
+    <Folder Include="Ürünler\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Views\Sepet.xaml.cs">
+      <DependentUpon>Sepet.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Atıştırlmalık.xaml.cs">
+      <DependentUpon>Atıştırlmalık.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\SıcaktazeYemek.xaml.cs">
+      <DependentUpon>SıcaktazeYemek.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\MeyveSebze.xaml.cs">
+      <DependentUpon>MeyveSebze.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 </Project>

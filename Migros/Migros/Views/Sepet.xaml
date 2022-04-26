@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Migros.Views.Sepet"
+             Title="SEPET"
+            >
+
+ 
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#ffc200</Color>
+           
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+
+    <ScrollView>
+        <StackLayout Orientation="Vertical">
+
+            <StackLayout Orientation="Horizontal" Margin="15" x:Name="SepetDomates" >
+                <ImageButton Source="https://aslimgida.com/images/giris-meyveler.jpg" Aspect="AspectFit" HeightRequest="70" WidthRequest="100" VerticalOptions="Center" />
+                <Label Text="Meyve - Sebze" Padding="5" Margin="20"></Label>
+                <Button Text="+" WidthRequest="60" CornerRadius="20" FontSize="Large" ></Button>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="15">
+                <ImageButton Source="https://aslimgida.com/images/giris-meyveler.jpg" Aspect="AspectFit" HeightRequest="70" WidthRequest="100" VerticalOptions="Center" />
+                <Label Text="Meyve - Sebze" Padding="5" Margin="20"></Label>
+                <Button Text="+" WidthRequest="60" CornerRadius="20" FontSize="Large" ></Button>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="15">
+                <ImageButton Source="https://aslimgida.com/images/giris-meyveler.jpg" Aspect="AspectFit" HeightRequest="70" WidthRequest="100" VerticalOptions="Center" />
+                <Label Text="Meyve - Sebze" Padding="5" Margin="20"></Label>
+                <Button Text="+" WidthRequest="60" CornerRadius="20" FontSize="Large" ></Button>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="15">
+                <ImageButton Source="https://aslimgida.com/images/giris-meyveler.jpg" Aspect="AspectFit" HeightRequest="70" WidthRequest="100" VerticalOptions="Center" />
+                <Label Text="Meyve - Sebze" Padding="5" Margin="20"></Label>
+                <Button Text="+" WidthRequest="60" CornerRadius="20" FontSize="Large" ></Button>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="15">
+                <ImageButton Source="https://aslimgida.com/images/giris-meyveler.jpg" Aspect="AspectFit" HeightRequest="70" WidthRequest="100" VerticalOptions="Center" />
+                <Label Text="Meyve - Sebze" Padding="5" Margin="20"></Label>
+                <Button Text="+" WidthRequest="60" CornerRadius="20" FontSize="Large" ></Button>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="15">
+                <ImageButton Source="https://aslimgida.com/images/giris-meyveler.jpg" Aspect="AspectFit" HeightRequest="70" WidthRequest="100" VerticalOptions="Center" />
+                <Label Text="Meyve - Sebze" Padding="5" Margin="20"></Label>
+                <Button Text="+" WidthRequest="60" CornerRadius="20" FontSize="Large" ></Button>
+            </StackLayout>
+
+
+
+
+
+        </StackLayout>
+
+    </ScrollView>
+</ContentPage>

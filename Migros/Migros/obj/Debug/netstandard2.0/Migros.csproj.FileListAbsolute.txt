@@ -1,21 +1,26 @@
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\bin\Debug\netstandard2.0\Migros.deps.json
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\bin\Debug\netstandard2.0\Migros.dll
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\bin\Debug\netstandard2.0\Migros.pdb
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.AssemblyReference.cache
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\Anasayfa.xaml.g.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfoInputs.cache
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfo.cs
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.CoreCompileInputs.cache
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.dll
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\refint\Migros.dll
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.pdb
-C:\Users\Hacer\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\ref\Migros.dll
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.deps.json
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.dll
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.pdb
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.AssemblyReference.cache
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Anasayfa.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\arama.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Atıştırlmalık.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\MeyveSebze.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Sepet.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\SıcaktazeYemek.xaml.g.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfoInputs.cache
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfo.cs
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.CoreCompileInputs.cache
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.dll
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\refint\Migros.dll
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.pdb
+C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\ref\Migros.dll

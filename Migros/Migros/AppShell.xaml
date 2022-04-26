@@ -3,6 +3,7 @@
        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        xmlns:local="clr-namespace:Migros.Views"
        Title="Migros"
+       
        x:Class="Migros.AppShell">
 
     <!--
@@ -14,15 +15,17 @@
     <Shell.Resources>
         <ResourceDictionary>
             <Style x:Key="BaseStyle" TargetType="Element">
-                <Setter Property="Shell.BackgroundColor" Value="{StaticResource Primary}" />
+                <Setter Property="Shell.BackgroundColor" Value="#ffc200" />
                 <Setter Property="Shell.ForegroundColor" Value="White" />
-                <Setter Property="Shell.TitleColor" Value="White" />
+                <Setter Property="Shell.TitleColor" Value="Black" />
                 <Setter Property="Shell.DisabledColor" Value="#B4FFFFFF" />
                 <Setter Property="Shell.UnselectedColor" Value="#95FFFFFF" />
-                <Setter Property="Shell.TabBarBackgroundColor" Value="{StaticResource Primary}" />
+                <Setter Property="Shell.TabBarBackgroundColor" Value="WhiteSmoke" />
+
                 <Setter Property="Shell.TabBarForegroundColor" Value="White"/>
-                <Setter Property="Shell.TabBarUnselectedColor" Value="#95FFFFFF"/>
-                <Setter Property="Shell.TabBarTitleColor" Value="White"/>
+                
+                <Setter Property="Shell.TabBarUnselectedColor" Value="Gray"/>
+                <Setter Property="Shell.TabBarTitleColor" Value="Orange"/>
             </Style>
             <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
             <Style TargetType="FlyoutItem" BasedOn="{StaticResource BaseStyle}" />
@@ -30,9 +33,11 @@
     </Shell.Resources>
 
     <TabBar>
-        <ShellContent Title="Anasayfa" Icon="icon_about.png" Route="AboutPage" ContentTemplate="{DataTemplate local:Anasayfa}" />
-        <ShellContent Title="Sepet" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:ItemsPage}" />
-        <ShellContent Title="Sepet" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:ItemsPage}" />
+        <ShellContent Title="Anasayfa"   Icon="https://pics.freeicons.io/uploads/icons/png/19876836111588529852-512.png" Route="AboutPage" ContentTemplate="{DataTemplate local:Anasayfa}" />
+        <ShellContent Title="Sepetim"  Icon="https://pics.freeicons.io/uploads/icons/png/18007860441579605658-512.png"    ContentTemplate="{DataTemplate local:ItemsPage} "  />
+        <ShellContent Title="Beğendiklerim"  Icon="https://pics.freeicons.io/uploads/icons/png/13097963441558424422-512.png"    ContentTemplate="{DataTemplate local:ItemsPage} "  />
+
+        <ShellContent Title="Hesabım" Icon="https://pics.freeicons.io/uploads/icons/png/20223058681640072063-512.png" ContentTemplate="{DataTemplate local:ItemsPage}" FlyoutItemIsVisible="True" />
     </TabBar>
 
     <!--
