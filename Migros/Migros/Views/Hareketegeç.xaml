@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Migros.Views.Hareketegeç" Title="Harekete Geç">
+    <ContentPage.Resources>
+
+        <ResourceDictionary>
+            <Color x:Key="Accent">#ffc200</Color>
+
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView>
+
+
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Horizontal">
+
+                <Button Text="Sağlık Takviyeleri" x:Name="y" TextColor="Black"  BackgroundColor="White" Clicked="y_Clicked" />
+                <Button Text="Enerji İçeceği" x:Name="ı" TextColor="Black" BackgroundColor="White" Clicked="ı_Clicked" />
+
+            </StackLayout>
+
+
+        </StackLayout>
+
+    </ScrollView>
+</ContentPage>

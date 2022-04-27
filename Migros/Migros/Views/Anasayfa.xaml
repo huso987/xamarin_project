@@ -2,14 +2,22 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Migros.Views.Anasayfa"
-             Title="Migros Hemen"
+            
             >
 
- 
+    <Shell.TitleView   >
+        <Image Source="indir.png"
+           HorizontalOptions="Start"
+              BackgroundColor="White"
+               WidthRequest="100"
+               HeightRequest="30"
+           />
+    </Shell.TitleView>
 
     <ContentPage.Resources>
         <ResourceDictionary>
             <Color x:Key="Accent">#ffc200</Color>
+            
            
         </ResourceDictionary>
     </ContentPage.Resources>
@@ -21,7 +29,7 @@
 
             <StackLayout BackgroundColor="White">
                 <Frame CornerRadius="10" IsClippedToBounds="True" Padding="0" Margin="5">
-                    <SearchBar x:Name="aramacubugu" Placeholder="Neye ihtiyacın var ?" SearchButtonPressed="aramacubugu_SearchButtonPressed"  BackgroundColor="WhiteSmoke" TextColor="Black"   />
+                    <SearchBar x:Name="aramacubugu" Placeholder="Neye ihtiyacın var ?"  TextChanged="aramacubugu_TextChanged" BackgroundColor="WhiteSmoke" TextColor="Black"   />
                 </Frame>
 
            
@@ -79,13 +87,13 @@
                 <StackLayout Orientation="Horizontal" HorizontalOptions="Center"  VerticalOptions="Center">
                     <StackLayout >
 
-                        <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/custom/f4cbff5d-e199-4a8d-80d4-8e7af7be149e-8628f2a5.png" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="100" VerticalOptions="Center"/>
+                        <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/custom/f4cbff5d-e199-4a8d-80d4-8e7af7be149e-8628f2a5.png" Aspect="AspectFit" BackgroundColor="White" HeightRequest="70" WidthRequest="100" VerticalOptions="Center" Clicked="ImageButton_Clicked"/>
                         <Label Text="Hızlı Yemek - Meze" Padding="5"></Label>
 
                     </StackLayout>
                     <StackLayout >
 
-                        <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/custom/cbb05f48-4ea6-45fc-855f-1863b77155a4-12ce96c1.png" Aspect="AspectFit" HeightRequest="70" BackgroundColor="White" WidthRequest="100" VerticalOptions="Center"/>
+                        <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/custom/cbb05f48-4ea6-45fc-855f-1863b77155a4-12ce96c1.png" Aspect="AspectFit" HeightRequest="70" BackgroundColor="White" WidthRequest="100" Clicked="ImageButton_Clicked_4" VerticalOptions="Center"/>
                         <Label Text="      İçecek"  Padding="5"></Label>
                         
 
@@ -94,7 +102,7 @@
 
 
 
-                        <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/custom/hareketegec-0e6a6b9c.png" Aspect="AspectFit" HeightRequest="70" WidthRequest="100" BackgroundColor="White" VerticalOptions="Center"/>
+                        <ImageButton Source="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/custom/hareketegec-0e6a6b9c.png" Aspect="AspectFit" HeightRequest="70" WidthRequest="100" BackgroundColor="White" Clicked="ImageButton_Clicked_5" VerticalOptions="Center"/>
                         <Label Text="Harekete Geç" Padding="5"></Label>
 
                     </StackLayout>

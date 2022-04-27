@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Migros.Views.Page1"
+             Title="Hızlı Yemek - Meze"
+             >
+         
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#ffc200</Color>
+
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView>
+
+
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Horizontal">
+
+                <Button Text="Meze" x:Name="a" TextColor="Black"  BackgroundColor="White" Clicked="a_Clicked"  />
+                <Button Text="Dondurulmuş" x:Name="b" TextColor="Black" BackgroundColor="White"   Clicked="b_Clicked" />
+
+            </StackLayout>
+
+
+        </StackLayout>
+
+    </ScrollView>
+
+
+</ContentPage>

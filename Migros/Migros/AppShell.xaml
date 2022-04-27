@@ -34,10 +34,12 @@
 
     <TabBar>
         <ShellContent Title="Anasayfa"   Icon="https://pics.freeicons.io/uploads/icons/png/19876836111588529852-512.png" Route="AboutPage" ContentTemplate="{DataTemplate local:Anasayfa}" />
-        <ShellContent Title="Sepetim"  Icon="https://pics.freeicons.io/uploads/icons/png/18007860441579605658-512.png"    ContentTemplate="{DataTemplate local:ItemsPage} "  />
-        <ShellContent Title="Beğendiklerim"  Icon="https://pics.freeicons.io/uploads/icons/png/13097963441558424422-512.png"    ContentTemplate="{DataTemplate local:ItemsPage} "  />
-
-        <ShellContent Title="Hesabım" Icon="https://pics.freeicons.io/uploads/icons/png/20223058681640072063-512.png" ContentTemplate="{DataTemplate local:ItemsPage}" FlyoutItemIsVisible="True" />
+        <ShellContent Title="Arama"   Icon="https://pics.freeicons.io/uploads/icons/png/20200399131558965373-512.png"  ContentTemplate="{DataTemplate local:arama}" />
+          
+        <ShellContent Title="Sepetim"  Icon="https://pics.freeicons.io/uploads/icons/png/18007860441579605658-512.png"  ContentTemplate="{DataTemplate local:baskett} "  />
+        <ShellContent Title="Beğendiklerim"  Icon="https://pics.freeicons.io/uploads/icons/png/13097963441558424422-512.png"    ContentTemplate="{DataTemplate local:begendiklerim} "  />
+        <ShellContent Title="Hesabım" Icon="https://pics.freeicons.io/uploads/icons/png/20223058681640072063-512.png" ContentTemplate="{DataTemplate local:loginekranı}" FlyoutItemIsVisible="True" />
+         
     </TabBar>
 
     <!--

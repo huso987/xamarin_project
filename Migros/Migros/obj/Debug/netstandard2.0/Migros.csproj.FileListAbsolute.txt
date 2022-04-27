@@ -1,26 +1,118 @@
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.deps.json
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.dll
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.pdb
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.AssemblyReference.cache
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Anasayfa.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\arama.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Atıştırlmalık.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\MeyveSebze.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Sepet.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\SıcaktazeYemek.xaml.g.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfoInputs.cache
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfo.cs
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.CoreCompileInputs.cache
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.dll
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\refint\Migros.dll
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.pdb
-C:\Users\Hacer\Downloads\Telegram Desktop\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\ref\Migros.dll
+C:\Users\huso1\Downloads\Migros\Migros\Migros\bin\Debug\netstandard2.0\Migros.deps.json
+C:\Users\huso1\Downloads\Migros\Migros\Migros\bin\Debug\netstandard2.0\Migros.dll
+C:\Users\huso1\Downloads\Migros\Migros\Migros\bin\Debug\netstandard2.0\Migros.pdb
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.AssemblyReference.cache
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\Anasayfa.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\MeyveSebze.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\Sepet.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfoInputs.cache
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfo.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.CoreCompileInputs.cache
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.dll
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\refint\Migros.dll
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Migros.pdb
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\ref\Migros.dll
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\SıcaktazeYemek.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\Atıştırlmalık.xaml.g.cs
+C:\Users\huso1\Downloads\Migros\Migros\Migros\obj\Debug\netstandard2.0\Views\arama.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.AssemblyReference.cache
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Anasayfa.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\arama.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Atıştırlmalık.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\MeyveSebze.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\SıcaktazeYemek.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfoInputs.cache
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfo.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.CoreCompileInputs.cache
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.dll
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\refint\Migros.dll
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.pdb
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.deps.json
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.dll
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.pdb
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\ref\Migros.dll
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\hızlıyemekmeze.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\Meyve.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\Sebze.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\Yeşillik.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\Migrosev.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\PizzaMiG.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\bar.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\gofret.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\çikolata.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\baskett.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\begendiklerim.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\dondurulmuş.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\meze.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\gazlıçecek.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\madensuyu.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\soğukkahve.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\su.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\İçecek.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Hareketegeç.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\enerjiiçeckler.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\sağlıktakviyeleri.xaml.g.cs
+C:\Users\huso1\Downloads\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\loginekranı.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.deps.json
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.dll
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\bin\Debug\netstandard2.0\Migros.pdb
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.AssemblyReference.cache
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\bar.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\dondurulmuş.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\enerjiiçeckler.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\gazlıçecek.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\gofret.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\madensuyu.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\Meyve.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\meze.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\Migrosev.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\PizzaMiG.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\sağlıktakviyeleri.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\Sebze.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\soğukkahve.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\su.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\Yeşillik.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\altkatogoriler\çikolata.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Anasayfa.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\arama.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Atıştırlmalık.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\baskett.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\begendiklerim.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\Hareketegeç.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\hızlıyemekmeze.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\loginekranı.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\MeyveSebze.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\SıcaktazeYemek.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Views\İçecek.xaml.g.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfoInputs.cache
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.AssemblyInfo.cs
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.csproj.CoreCompileInputs.cache
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.dll
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\refint\Migros.dll
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\Migros.pdb
+C:\Users\huso1\OneDrive\Masaüstü\huso sepet eklendi arama eklendi\Migroshuso\Migros\Migros\obj\Debug\netstandard2.0\ref\Migros.dll

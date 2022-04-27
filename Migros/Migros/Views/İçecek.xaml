@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Migros.Views.İçecek" Title="İçecek">
+
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#ffc200</Color>
+
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView>
+
+
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Horizontal">
+
+                <Button Text="Su" x:Name="s" TextColor="Black"  BackgroundColor="White" Clicked="s_Clicked" />
+                <Button Text="Maden Suyu" x:Name="m" TextColor="Black" BackgroundColor="White" Clicked="m_Clicked"   />
+                <Button Text="Gazlı İçecek" x:Name="g" TextColor="Black"  BackgroundColor="White"  Clicked="g_Clicked" />
+                <Button Text="Soğuk Kahve" x:Name="k" TextColor="Black" BackgroundColor="White"  Clicked="k_Clicked" />
+
+            </StackLayout>
+
+
+        </StackLayout>
+
+    </ScrollView>
+
+</ContentPage>

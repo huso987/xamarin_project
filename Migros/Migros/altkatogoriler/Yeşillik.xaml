@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Migros.altkatogoriler.Yeşillik"
+             Title="YEŞİLLİK">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Horizontal" >
+                <StackLayout  VerticalOptions="FillAndExpand" HorizontalOptions="Center" Padding="10">
+                    <ListView x:Name="yeşillik" HorizontalOptions="StartAndExpand" VerticalOptions="FillAndExpand"
+                            SeparatorColor="#ffc200" SeparatorVisibility="Default" HasUnevenRows="True" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal" Padding="5" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
+                                            MinimumHeightRequest="100">
+                                        <Frame BorderColor="Black" CornerRadius="8">
+
+                                            <StackLayout Orientation="Vertical" Padding="2" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                                                <ImageButton Source="https://pics.freeicons.io/uploads/icons/png/5441156781530273523-512.png" BackgroundColor="White" HorizontalOptions="End" Clicked="ImageButton_Clicked" VerticalOptions="Start" HeightRequest="30"></ImageButton>
+                                                <Image Source="{Binding ProductImageUrl}" WidthRequest="100" HeightRequest="100"/>
+                                                <Label Text="{Binding ProductName}" FontSize="20" Margin="2" TextColor="Black" FontAttributes="Bold"/>
+                                                <Label Text="{Binding UnitPrice,StringFormat='{0:C2}'}" FontSize="16" Margin="2" TextColor="#ffc200"/>
+                                                <Button Text="Sepete Ekle" BackgroundColor="Black" TextColor="#ffc200" HorizontalOptions="Start" Clicked="Button_Clicked"  CornerRadius="25" />
+                                            </StackLayout>
+                                        </Frame>
+
+
+                                    </StackLayout>
+                                </ViewCell>
+
+                            </DataTemplate>
+
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

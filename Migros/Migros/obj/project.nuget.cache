@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "gwIktcnkMfiN19rJpRs016rJs5xoJ4FeAvPjje2vxKViqvWEmdJhp0kFc+9RYWiSdFI6adahTg588QLkrOn7Hw==",
+  "dgSpecHash": "oL0mZ7JBjnNotNJwmrP/qkT14ONIXEO641JiIPXOHJHczMicOO184+Yxx0r2fmBFUcNdnnaQFQAO87TDsrYQ+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj",
+  "projectFilePath": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros\\Migros.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hacer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Hacer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Hacer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Hacer\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Hacer\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\huso1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\huso1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\huso1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\huso1\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\huso1\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

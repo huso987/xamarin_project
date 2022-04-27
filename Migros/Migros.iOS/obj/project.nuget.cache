@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MdmtZETzOTAvcW1uNwPNrB5Q8/BhKnjcVWxy0DpLYVTXWgST9n6uEDwbpWCM2NP95VI/eryDmn/HLGEvlMXXDg==",
+  "dgSpecHash": "nn5/YLGEU7FiC/6i0q4eqnjcXxNhbqix3JDGrBPR2R5cG634VdwuMkmanWSxf01I2bkwDstoS5yhO4iLXrr+jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
+  "projectFilePath": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hacer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Hacer\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Hacer\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\huso1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\huso1\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\huso1\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

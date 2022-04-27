@@ -16,12 +16,12 @@ namespace Migros.Views
         public Anasayfa()
         {
             InitializeComponent();
-
+            /*
             var names = new List<string>
             {
 
                 "mohammed", "ahmed","marven","cihad"
-            };
+            }; */
 
             var images = new List<string>
             {
@@ -48,6 +48,7 @@ namespace Migros.Views
         {
             //Taze sıcak ev yemekleri 
             Navigation.PushAsync(new EtBalik(), true);
+            
         }
 
         private void ImageButton_Clicked_3(object sender, EventArgs e)
@@ -57,10 +58,34 @@ namespace Migros.Views
         }
 
       
+          // hızlı yemek 
+        private void ImageButton_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Page1(), true);
+        }
+
         private void aramacubugu_SearchButtonPressed(object sender, EventArgs e)
         {
             Navigation.PushAsync(new arama(), true);
         }
 
+        private void ImageButton_Clicked_4(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new İçecek(), true);
+        }
+
+        private void ImageButton_Clicked_5(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Hareketegeç(), true);
+
+        }
+
+       
+       
+
+        private void aramacubugu_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            Navigation.PushAsync(new arama(), true);
+        }
     }
 }

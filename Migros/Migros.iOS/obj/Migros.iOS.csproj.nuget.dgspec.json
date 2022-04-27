@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj": {}
+    "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj": {
+    "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
         "projectName": "Migros.iOS",
-        "projectPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
-        "packagesPath": "C:\\Users\\Hacer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros.iOS\\obj\\",
+        "projectPath": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros.iOS\\Migros.iOS.csproj",
+        "packagesPath": "C:\\Users\\huso1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hacer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huso1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj": {
-                "projectPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj"
+              "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros\\Migros.csproj": {
+                "projectPath": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros\\Migros.csproj"
               }
             }
           }
@@ -61,17 +65,21 @@
         }
       }
     },
-    "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj": {
+    "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros\\Migros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj",
+        "projectUniqueName": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros\\Migros.csproj",
         "projectName": "Migros",
-        "projectPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\Migros.csproj",
-        "packagesPath": "C:\\Users\\Hacer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hacer\\Downloads\\Telegram Desktop\\Migroshuso\\Migros\\Migros\\obj\\",
+        "projectPath": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros\\Migros.csproj",
+        "packagesPath": "C:\\Users\\huso1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\huso1\\OneDrive\\Masaüstü\\huso sepet eklendi arama eklendi\\Migroshuso\\Migros\\Migros\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hacer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huso1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

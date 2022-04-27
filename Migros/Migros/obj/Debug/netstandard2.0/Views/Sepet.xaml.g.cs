@@ -8,21 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Migros.Views.Sepet.xaml", "Views/Sepet.xaml", typeof(global::Migros.Views.Sepet))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Migros.Views.sepet.xaml", "Views/sepet.xaml", typeof(global::Migros.Views.sepet))]
 
 namespace Migros.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\Sepet.xaml")]
-    public partial class Sepet : global::Xamarin.Forms.ContentPage {
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.StackLayout SepetDomates;
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\sepet.xaml")]
+    public partial class sepet : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Sepet));
-            SepetDomates = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.StackLayout>(this, "SepetDomates");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(sepet));
         }
     }
 }
