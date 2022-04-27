@@ -38,6 +38,7 @@ namespace Migros.altkatogoriler
             var item = sender as Button;
             var obj = item.BindingContext as aramaürün;
             model.list.Add(obj);
+            DisplayAlert("!!!", "Ürün Sepet Eklendi", "Tamam");
         }
 
         private void ImageButton_Clicked(object sender, EventArgs e)
@@ -45,6 +46,7 @@ namespace Migros.altkatogoriler
             var item = sender as ImageButton;
             var obj = item.BindingContext as aramaürün;
             beğeni.list.Add(obj);
+            DisplayAlert("!!!", "Ürün Beğendiklerime Eklendi", "Tamam");
         }
     }
 }

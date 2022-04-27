@@ -14,8 +14,8 @@ namespace Migros.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class baskett : ContentPage
     {
-        
-        public baskett()
+
+        public  baskett()
         {
             InitializeComponent();
             sepetürün.ItemsSource = model.list;
@@ -27,14 +27,17 @@ namespace Migros.Views
 
         }
 
-       
 
-        private void ImageButton_Clicked(object sender, EventArgs e)
+
+        private async void ImageButton_Clicked(object sender, EventArgs e)
         {
             var button = (ImageButton)sender;
             var item = (aramaürün)button.BindingContext;
 
             model.list.Remove(item);
+            DisplayAlert("!!!", "Sepetden Ürün Çıkarıldı", "Tamam");
+
+
 
 
         }
@@ -44,6 +47,7 @@ namespace Migros.Views
             var item = sender as ImageButton;
             var obj = item.BindingContext as aramaürün;
             beğeni.list.Add(obj);
+            DisplayAlert("!!!", "Ürün Beğendiklerime Eklendi", "Tamam");
         }
     }
 }

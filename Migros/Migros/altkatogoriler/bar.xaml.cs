@@ -24,6 +24,7 @@ namespace Migros.altkatogoriler
                  new aramaürün{ProductName ="Nestle Nesfit Çilekli Bar 23,5 G",ProductImageUrl ="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/05099120/05099120-0c9186.jpg",UnitPrice=18},
                   new aramaürün{ProductName ="Tadım Antep Fıstıklı Bar 27 G ",ProductImageUrl ="https://migros-dali-storage-prod.global.ssl.fastly.net/hemen/product/07080787/07080787-3a66de.jpg",UnitPrice=12 }
            };
+
         public bar()
         {
             InitializeComponent();
@@ -38,6 +39,7 @@ namespace Migros.altkatogoriler
             var item = sender as Button;
             var obj = item.BindingContext as aramaürün;
             model.list.Add(obj);
+            DisplayAlert("!!!", "Ürün Sepete Eklendi", "Tamam");
 
 
         }
@@ -48,6 +50,7 @@ namespace Migros.altkatogoriler
             var item = sender as ImageButton;
             var obj = item.BindingContext as aramaürün;
             beğeni.list.Add(obj);
+            DisplayAlert("!!!", "Ürün Beğendiklerime Eklendi", "Tamam");
         }
     }
 }

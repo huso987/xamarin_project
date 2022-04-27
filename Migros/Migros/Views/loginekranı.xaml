@@ -15,11 +15,11 @@
                     <Label Text="Merhaba" TextColor="Black" FontSize="20" VerticalOptions="Center"/>
                     </StackLayout>
                 </StackLayout>
-                <Label Text="Giriş Yap" TextColor="Black" FontSize="40" HorizontalOptions="Center"></Label>
+                <Label Text="Üye Girişi" TextColor="Black" FontSize="40" HorizontalOptions="Center"></Label>
             </StackLayout>
             <StackLayout Grid.Row="1" Spacing="10">
-                <Entry Placeholder="Enter Username" Text="{Binding Username}"/>
-                <Entry Placeholder="Enter Password" Text="{Binding Password}" IsPassword="True"/>
+                <Entry Placeholder="Kullanıcı Adı" Text="{Binding Username}"/>
+                <Entry Placeholder="Şifre" Text="{Binding Password}" IsPassword="True"/>
                 <Button Text="Giriş Yap" HorizontalOptions="Center" BackgroundColor="#ffc200" TextColor="Black"
                         WidthRequest="200" HeightRequest="60" CornerRadius="20" Command="{Binding LoginCommand}"/>
 

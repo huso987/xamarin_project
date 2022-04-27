@@ -33,6 +33,8 @@ namespace Migros.Views
             var item = (aramaürün) button.BindingContext;
 
             beğeni.list.Remove(item);
+            DisplayAlert("!!!", "Ürün Beğendiklerimden kaldırıldı", "Tamam");
+
         }
 
         private void Button_Clicked(object sender, EventArgs e)
@@ -40,6 +42,7 @@ namespace Migros.Views
             var item = sender as Button;
             var obj = item.BindingContext as aramaürün;
             model.list.Add(obj);
+            DisplayAlert("!!!", "Ürün Sepete Eklendi", "Tamam");
 
         }
     }

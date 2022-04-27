@@ -146,6 +146,7 @@ namespace Migros.Views
             var item = sender as Button;
             var obj = item.BindingContext as aramaürün;
             model.list.Add(obj);
+            DisplayAlert("!!!", "Ürün Sepete eklendi", "Tamam");
         }
 
         private void ImageButton_Clicked(object sender, EventArgs e)
@@ -153,6 +154,7 @@ namespace Migros.Views
             var item = sender as ImageButton;
             var obj = item.BindingContext as aramaürün;
             beğeni.list.Add(obj);
+            DisplayAlert("!!!", "Ürün Beğendiklerime eklendi", "Tamam");
         }
     }
 }
